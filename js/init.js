@@ -8,11 +8,11 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-      apiKey: "AIzaSyCre34-HksAhM_vImSLb0Ud9NOg11IZW78",
+apiKey: "AIzaSyCre34-HksAhM_vImSLb0Ud9NOg11IZW78",
   authDomain: "masajesmacj3-256cd.firebaseapp.com",
   projectId: "masajesmacj3-256cd",
   storageBucket: "masajesmacj3-256cd.appspot.com",
   messagingSenderId: "294437261723",
-  appId: "1:294437261723:web:339b877e0611788ab1513e",
-  measurementId: "G-PG7T0JQSRN"
+  appId: "1:294437261723:web:39f4e0b795c10201b1513e",
+  measurementId: "G-WCG8S7VRH4"
 });
